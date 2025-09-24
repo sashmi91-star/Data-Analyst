@@ -4,4 +4,4 @@ age=int(input("Enter your age: "))
 gender=str(input("Enter your gender: "))
 
 #display to the user
-print(f"Hello, {name} your age is {age} and your gender is {gender}")
+print(f"Hello, {name} your age is {age} and your gender is {gender}, all the best ")
